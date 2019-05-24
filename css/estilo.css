@@ -97,7 +97,7 @@ header a:hover {
 /*			Showcase		*/
 
 #showcase {
-	min-height: 500px;
+	min-height: 750px;
 	background: url(../imagens/artigo6.jpg) no-repeat -500px;
 	text-align: center;
 	color: #ffffff;
@@ -115,7 +115,7 @@ header a:hover {
 }
 
 #newsletter {
-	padding: 15px;
+	padding: 30px;
 	color: #ffffff;
 	background-color: #35424e;
 }
