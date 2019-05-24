@@ -37,7 +37,7 @@ footer p{
 header {
 	background: #35424e;
 	color: #ffffff;
-	padding-top: 30px;
+	padding-top: 20px;
 	min-height: 70px;
 	border-bottom: #e8491d 3px solid; 
 }
@@ -122,13 +122,13 @@ header a:hover {
 
 #newsletter h1 {
 	float: left;
-	margin-bottom: 15px; 
-	margin-left: 480px;
+	margin-bottom: 10px; 
+	margin-left: 450px;
 }
 
 #newsletter form {
 	float: right;
-	margin-top: 20px;
+	margin-top: 25px;
 }
 
 #newsletter input {
